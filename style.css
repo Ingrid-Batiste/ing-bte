@@ -1,0 +1,75 @@
+
+p
+
+{
+	text-align: justify;
+
+	 }
+
+ .web
+ {  
+ 	color: purple;
+ }
+
+ .wrong
+ {
+ 	color:#10A7B1;
+ }
+
+ .web2
+ {
+ 	color:#6222B8;
+ }
+
+ .problem
+ {
+ 	font-size: xx-large; 
+ }
+ .legible
+ {
+ 	font-size: xx-small; 
+ }
+ .ass
+ {
+ 	text-decoration:line-through;
+ }
+ .bling
+ {
+ 	float: right;
+ 	text-decoration: overline;
+ }
+ 	.really
+{
+	font-size: x-small
+}
+
+body
+
+{
+	border:3px #822174 outset;
+
+	background-color:#EFFAFA;
+
+}
+
+.web3
+{
+	color:#822174;
+}
+
+.imageflottante
+{
+	float: left;
+
+}
+.dessous
+{
+	clear: both;
+}
+
+
+
+
+
+ 
+
